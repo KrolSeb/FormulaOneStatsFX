@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Ubuntu Light';
+    src: url('../fonts/Ubuntu-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/Ubuntu-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu Medium';
+    src: url('../fonts/Ubuntu-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu Bold';
+    src: url('../fonts/Ubuntu-Bold.ttf');
+}
+
+.root {
+    -fx-font-family: 'Ubuntu Light';
+    -fx-background-color:  #2F3F48;
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+#appNameLabel {
+    -fx-font-family: 'Ubuntu';
+    -fx-font-size: 32px;
+}
+
+#descriptionLabel {
+    -fx-font-family: 'Ubuntu Light';
+    -fx-font-size: 20px;
+}
+
+.jfx-button {
+    -fx-font-size: 17px;
+    -fx-font-family: 'Ubuntu Medium';
+    -jfx-button-type: RAISED;
+    -fx-background-color: #e8e8e8;
+    -fx-text-fill: #EA5822;
+}
+
+#aboutButton {
+    -fx-font-family: 'Ubuntu';
+    -fx-font-size: 12px;
+    -fx-background-color: #e8e8e8;
+    -fx-text-fill: #EA5822;
+}
