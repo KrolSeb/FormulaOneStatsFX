@@ -56,4 +56,4 @@ In the future I want to create my custom implementation of retrieving data from 
 
 ## Contact
 
-Created by [@KrolSeb](https://krolseb.github.io/blog/) - please feel free to contact me if you need any further information.
+Created by [@KrolSeb](https://krolseb.github.io/) - please feel free to contact me if you need any further information.
